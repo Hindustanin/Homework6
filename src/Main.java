@@ -76,8 +76,8 @@ public class Main {
 
         int mnogitel = 2;
         for (int i = 1; i <= 10; i++) {
-            int proizvedenie = mnogitel * i;
-            System.out.println(mnogitel + "*" + i + "=" + proizvedenie);
+            int proizved = mnogitel * i;
+            System.out.println(mnogitel + "*" + i + "=" + proizved);
         }
     }
 }
