@@ -42,14 +42,14 @@ public class Main {
         System.out.println("Задача 6");
 
         for (int i = 7; i <= 98; i = i + 7) {
-            System.out.println(i);
+            System.out.print(i + " ");
         }
         // Задача 7
         System.out.println();
         System.out.println("Задача 7");
 
         for (int i = 1; i <= 512; i = i * 2) {
-            System.out.println(i);
+            System.out.print(i + " ");
         }
         // Задача 8
         System.out.println();
